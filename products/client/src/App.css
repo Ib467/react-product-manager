@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+button{
+  min-width: 60px;
+  padding: 2px;
+  margin: 5px;
+}
+
+.new-prd .btn-submit{
+  width: 265px;
+}
+
+.all-prd{
+  max-width: 60%;
+  margin: auto;
+  list-style-type: none;
+  padding-inline-start: 0;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.all-prd li{
+  background-color: bisque;
+  padding: 20px;
+}
+.all-prd .all-title{
+  text-decoration: none;
+  display: block;
+  padding: 2px;
+  margin: 5px;
+}
+
+.input{
+  width: 30%;
+  margin-top: 5px;
+}
+
+.new-prd label, .edit-prd label{
+  display: inline-block;
+  min-width: 100px;
+  text-align: left;
+  padding: 2px;
+  margin: 5px;
+}
+
+.is-size-4	{
+  margin-bottom: 10px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
