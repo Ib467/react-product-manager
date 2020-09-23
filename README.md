@@ -2,6 +2,6 @@
 
 Npm Install on client/Server folders to get the project running.
 
-<h1> Live demo <href="https://products-fcd9f.web.app/"> </h1>
+[Product Manager Demo](https://products-fcd9f.web.app)
 
-[GitHub](http://github.com)
+Techonologies used: React JS, MongoDb, Mongoose, Google Firebase hosting
