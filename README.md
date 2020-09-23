@@ -6,5 +6,4 @@ Npm Install on client/Server folders to get the project running.
 
 Techonologies used: React JS, MongoDb, Mongoose, Google Firebase hosting
 
-![Image of Yaktocat]
 <img src="products.jpeg" />
