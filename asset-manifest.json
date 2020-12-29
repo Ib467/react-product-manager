@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-product-manager/static/css/main.3b9ac592.chunk.css",
+    "main.js": "/react-product-manager/static/js/main.08c05157.chunk.js",
+    "main.js.map": "/react-product-manager/static/js/main.08c05157.chunk.js.map",
+    "runtime-main.js": "/react-product-manager/static/js/runtime-main.5188a56b.js",
+    "runtime-main.js.map": "/react-product-manager/static/js/runtime-main.5188a56b.js.map",
+    "static/js/2.bae1f6ae.chunk.js": "/react-product-manager/static/js/2.bae1f6ae.chunk.js",
+    "static/js/2.bae1f6ae.chunk.js.map": "/react-product-manager/static/js/2.bae1f6ae.chunk.js.map",
+    "index.html": "/react-product-manager/index.html",
+    "precache-manifest.95e797058f6addc5eace8df8c6830845.js": "/react-product-manager/precache-manifest.95e797058f6addc5eace8df8c6830845.js",
+    "service-worker.js": "/react-product-manager/service-worker.js",
+    "static/css/main.3b9ac592.chunk.css.map": "/react-product-manager/static/css/main.3b9ac592.chunk.css.map",
+    "static/js/2.bae1f6ae.chunk.js.LICENSE.txt": "/react-product-manager/static/js/2.bae1f6ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-product-manager/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5188a56b.js",
+    "static/js/2.bae1f6ae.chunk.js",
+    "static/css/main.3b9ac592.chunk.css",
+    "static/js/main.08c05157.chunk.js"
+  ]
+}
